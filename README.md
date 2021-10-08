@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyasan31&hide=html,CSS,Objective-C&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyasan31&hide=html,CSS,Objective-C,Dockerfile,Ruby,Starlark,Shell&theme=dark" />
 </a>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats/actions">
