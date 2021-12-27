@@ -15,7 +15,7 @@
 **Mobile**  
 ![React_Native](https://img.shields.io/badge/React_Native-021627?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-021627?style=for-the-badge&logo=expo&logoColor=white)
-![Android](https://img.shields.io/badge/Android-021627?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
+![Android](https://img.shields.io/badge/Android-021627?style=for-the-badge&logo=android&logoColor=3DDC84)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-021627?style=for-the-badge&logo=react&logoColor=61DAFB)
