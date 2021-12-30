@@ -46,7 +46,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-021627?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-021627?style=for-the-badge&logo=Sequelize&logoColor=52B0E7)
 ![Socket](https://img.shields.io/badge/Socket.io-021627?&style=for-the-badge&logo=Socket.io&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo%20GraphQL-021627?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=311C87)
+![Apollo](https://img.shields.io/badge/Apollo-021627?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=311C87)
 ![Babel](https://img.shields.io/badge/Babel-021627?style=for-the-badge&logo=babel&logoColor=F9DC3E)
 ![eslint](https://img.shields.io/badge/eslint-021627?style=for-the-badge&logo=eslint&logoColor=3A33D1)
 ![prettier](https://img.shields.io/badge/prettier-021627?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
