@@ -6,8 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miyasan31&hide_title=true&layout=compact&hide=html,CSS,Objective-C,Dockerfile,Ruby,Starlark,Shell&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 **Language**  
-![HTML](https://img.shields.io/badge/HTML-021627?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-021627?style=for-the-badge&logo=css3&logoColor=1572B6)
+<!-- ![HTML](https://img.shields.io/badge/HTML-021627?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-021627?style=for-the-badge&logo=css3&logoColor=1572B6) -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-021627?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-021627?style=for-the-badge&logo=typescript&logoColor=007ACC)
 ![Java](https://img.shields.io/badge/Java-021627?style=for-the-badge&logo=java&logoColor=red)
@@ -15,17 +15,16 @@
 
 **Mobile**  
 ![React_Native](https://img.shields.io/badge/React_Native-021627?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-021627?style=for-the-badge&logo=expo&logoColor=white)
-![Android](https://img.shields.io/badge/Android-021627?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Expo](https://img.shields.io/badge/Expo-021627?style=for-the-badge&logo=expo&logoColor=white)  
+![Android](https://img.shields.io/badge/Android_Java-021627?style=for-the-badge&logo=android&logoColor=3DDC84)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-021627?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nextjs](https://img.shields.io/badge/Nextjs-021627?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nextjs](https://img.shields.io/badge/Nextjs-021627?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 ![Svelte](https://img.shields.io/badge/Svelte-021627?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![Svelte_Kit](https://img.shields.io/badge/Svelte_Kit-021627?style=for-the-badge&logo=svelte&logoColor=A2A2A2)
 
 **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-021627?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-021627?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-021627?style=for-the-badge&logo=fastify&logoColor=white)
 ![Nestjs](https://img.shields.io/badge/Nestjs-021627?style=for-the-badge&logo=nestjs&logoColor=E0234E)
@@ -33,7 +32,7 @@
 **Database**  
 ![Supabase](https://img.shields.io/badge/Supabase-021627?style=for-the-badge&logo=supabase&logoColor=24B47E)
 ![Firebase](https://img.shields.io/badge/firebase-021627?style=for-the-badge&logo=firebase&logoColor=ffca28)
-![MongoDB](https://img.shields.io/badge/MongoDB-021627?style=for-the-badge&logo=mongodb&logoColor=13AA52)
+![MongoDB](https://img.shields.io/badge/MongoDB-021627?style=for-the-badge&logo=mongodb&logoColor=13AA52)  
 ![MySQL](https://img.shields.io/badge/MySQL-021627?style=for-the-badge&logo=mysql&logoColor=005C84)
 ![MariaDB](https://img.shields.io/badge/MariaDB-021627?style=for-the-badge&logo=mariadb&logoColor=003545)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-021627?style=for-the-badge&logo=postgresql&logoColor=316192)
@@ -44,9 +43,9 @@
 
 **Ecosystem**  
 ![Prisma](https://img.shields.io/badge/Prisma-021627?style=for-the-badge&logo=Prisma&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-021627?style=for-the-badge&logo=Sequelize&logoColor=52B0E7)
+![Sequelize](https://img.shields.io/badge/Sequelize-021627?style=for-the-badge&logo=Sequelize&logoColor=52B0E7)  
 ![Socket](https://img.shields.io/badge/Socket.io-021627?&style=for-the-badge&logo=Socket.io&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo-021627?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=311C87)
+![Apollo](https://img.shields.io/badge/Apollo-021627?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=311C87)  
 ![Babel](https://img.shields.io/badge/Babel-021627?style=for-the-badge&logo=babel&logoColor=F9DC3E)
 ![eslint](https://img.shields.io/badge/eslint-021627?style=for-the-badge&logo=eslint&logoColor=3A33D1)
 ![prettier](https://img.shields.io/badge/prettier-021627?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
