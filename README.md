@@ -34,9 +34,9 @@
 ![Firebase](https://img.shields.io/badge/firebase-021627?style=for-the-badge&logo=firebase&logoColor=ffca28)
 ![MongoDB](https://img.shields.io/badge/MongoDB-021627?style=for-the-badge&logo=mongodb&logoColor=13AA52)  
 ![MySQL](https://img.shields.io/badge/MySQL-021627?style=for-the-badge&logo=mysql&logoColor=005C84)
-![MariaDB](https://img.shields.io/badge/MariaDB-021627?style=for-the-badge&logo=mariadb&logoColor=003545)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-021627?style=for-the-badge&logo=postgresql&logoColor=316192)
-![SQLite](https://img.shields.io/badge/SQLite-021627?style=for-the-badge&logo=sqlite&logoColor=07405E)
+<!-- ![MariaDB](https://img.shields.io/badge/MariaDB-021627?style=for-the-badge&logo=mariadb&logoColor=003545) -->
+<!-- ![SQLite](https://img.shields.io/badge/SQLite-021627?style=for-the-badge&logo=sqlite&logoColor=07405E) -->
 
 **Infrastructure**  
 ![404](https://img.shields.io/badge/404_NOT_FOUND-red?style=for-the-badge)
